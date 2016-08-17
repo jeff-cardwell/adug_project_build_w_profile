@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "782a09009c00710726594e7b2f01759d",
-    "content-hash": "b1a3b6c929f378ecb278f1edefdd1258",
+    "hash": "63ebb9aa77470908ee70e2674bdfa9fd",
+    "content-hash": "8e2494aa586c3cc28f8da746bac9d610",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1715,6 +1715,34 @@
                 }
             ],
             "time": "2015-04-20 18:58:01"
+        },
+        {
+            "name": "jeff-cardwell/adug_profile",
+            "version": "v1.7.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeff-cardwell/adug_profile.git",
+                "reference": "a836a3322dd45863c9d22b861d6de93c0c0b5a8a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeff-cardwell/adug_profile/zipball/a836a3322dd45863c9d22b861d6de93c0c0b5a8a",
+                "reference": "a836a3322dd45863c9d22b861d6de93c0c0b5a8a",
+                "shasum": ""
+            },
+            "type": "drupal-profile",
+            "authors": [
+                {
+                    "name": "Jeff Cardwell",
+                    "email": "jeffcardwellbusiness@gmail.com"
+                }
+            ],
+            "description": "Custom profile using standard profile dependencies as a starting point",
+            "support": {
+                "source": "https://github.com/jeff-cardwell/adug_profile/tree/v1.7.4",
+                "issues": "https://github.com/jeff-cardwell/adug_profile/issues"
+            },
+            "time": "2016-08-17 20:22:45"
         },
         {
             "name": "masterminds/html5",
